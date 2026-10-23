@@ -5,7 +5,7 @@
 ビートを16ステップでこわすエフェクト。1小節を16に割って、それぞれのステップに
 **off / stutter / reverse / tapestop / crush / gate** のどれかを置きます。
 つまみは「Mix」「Stutter Div（1/32・1/64・1/128）」「Crush Bits（2〜12）」。
-VST3 と Windows スタンドアロン。配布パッケージは [BOOTH](https://vicugna.booth.pm/) にあります。
+VST3 と Windows スタンドアロン。配布パッケージは [BOOTH](https://vicugna.booth.pm/items/9031203) にあります（0円）。
 
 > これはオーディオプラグインです。Windows のシステムファイルではありません。
 
