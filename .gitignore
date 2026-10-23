@@ -2,4 +2,5 @@ build/
 dist/
 *.png
 !ui_win2.png
+!Assets/icon.png
 *.zip
